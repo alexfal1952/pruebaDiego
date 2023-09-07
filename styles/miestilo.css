@@ -4,3 +4,11 @@
 #h1Ide {
     color: rgb(204, 190, 190);
 }
+
+.card-body {
+    color: red !important;
+    -webkit-box-flex: 1;
+    -ms-flex: 1 1 auto;
+    flex: 1 1 auto;
+    padding: 1.25rem;
+}
